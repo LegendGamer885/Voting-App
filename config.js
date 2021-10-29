@@ -1,6 +1,6 @@
 import firebase from 'firebase';
 
-const firebaseConfig = {
+var firebaseConfig = {
     apiKey: "AIzaSyBcgwVl71fz84gmfS6baI8Pde_u45HqpU8",
     authDomain: "voting-app-2be84.firebaseapp.com",
     databaseURL: "https://voting-app-2be84-default-rtdb.firebaseio.com",
